@@ -16,7 +16,7 @@ Passionate about building scalable backend applications, solving algorithmic pro
 
 ## 👨‍💻 About Me
 
-🎓 Final Year B.Tech Computer Science Engineering Student
+🎓 B.Tech Computer Science Engineering Student
 
 💻 Aspiring Software Developer with a strong interest in Backend Development and Problem Solving.
 
