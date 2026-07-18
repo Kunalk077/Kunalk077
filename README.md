@@ -1,188 +1,156 @@
-
 <p align="center">
-  <img src="./banner.png.png" alt="Kunal Tyagi Banner" width="100%">
+  <img src="banner1.png" alt="Kunal Tyagi Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kunal Tyagi</h1>
 
 <h3 align="center">
-💻 Aspiring Software Engineer • Full-Stack Developer • Lifelong Learner
+💻 Software Developer | Backend Developer | DSA Enthusiast
 </h3>
 
 <p align="center">
-I enjoy building practical software, solving challenging problems, and continuously learning modern technologies.
+Passionate about building scalable backend applications, solving algorithmic problems, and writing clean, maintainable code.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name: Kunal Tyagi
+🎓 Final Year B.Tech Computer Science Engineering Student
 
-Education:
-  B.Tech in Computer Science & Engineering
+💻 Aspiring Software Developer with a strong interest in Backend Development and Problem Solving.
 
-Location:
-  Greater Noida, Uttar Pradesh, India
+🚀 I enjoy building practical software applications, improving my Data Structures & Algorithms skills, and learning modern backend technologies.
 
-Current Focus:
-  • Full-Stack Development
-  • Backend Engineering
-  • Data Structures & Algorithms
-  • System Design
-
-Currently Learning:
-  • React
-  • FastAPI
-  • PostgreSQL
-  • Docker
-
-Career Goal:
-  Build scalable software and grow as a Software Engineer.
-
-Quote:
-  "Keep Learning. Keep Building."
-```
+🎯 Currently preparing for Software Development Engineer (SDE) and Backend Developer roles.
 
 ---
 
-## ⚡ Tech Stack
+# 🚀 Tech Stack
 
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css,sql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,sql" />
 </p>
 
-### ⚛️ Frameworks & Libraries
+### ⚙ Backend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,fastapi,flask"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases
+### 🌐 Web Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### 🛠️ Tools
+### 🗄 Database
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ☁ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📚 Core Skills
 
-### 📦 StockFlow
-
-Inventory & Order Management System
-
-**Tech Stack**
-
-- React
-- FastAPI
-- PostgreSQL
-- Docker
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- REST API Development
+- Problem Solving
+- Team Collaboration
+- Logical Thinking
 
 ---
 
-### 🎙️ Vocalytics
+# 📌 Featured Projects
 
-Speech Emotion Recognition & Mental Wellness Monitoring
-
-**Tech Stack**
-
-- Python
-- Machine Learning
-- Streamlit
+## 📦 StockFlow
+Inventory Management System developed using React, Node.js, Express.js, MongoDB, Docker and GitHub.
 
 ---
 
-### 📁 Mini File Compression Tool
+## 🗜 Mini File Compression Tool
 
-Efficient lossless file compression using Huffman Coding.
-
-**Tech Stack**
-
-- C++
+Implemented Huffman Coding in C++ for efficient lossless file compression and decompression.
 
 ---
 
-## 🌌 Current Goals
+## 📚 Bookshop Management System
 
-```text
-✔ Build production-ready Full-Stack applications
-
-✔ Strengthen Data Structures & Algorithms
-
-✔ Contribute to Open Source
-
-✔ Learn Cloud Technologies
-
-✔ Secure a Software Engineering role
-```
+Console-based inventory management application developed using C++ and File Handling concepts.
 
 ---
 
-## 📊 GitHub Statistics
+## 🎮 Tic Tac Toe
+
+Responsive browser game built using HTML, CSS and JavaScript.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kunalk077&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunalk077&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalk077&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalk077&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=kunalk077&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalk077&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📬 Connect With Me
+# 🌱 Currently Learning
 
-<p align="center">
+- Advanced Data Structures & Algorithms
+- Backend Development
+- System Design Fundamentals
+- Software Engineering Best Practices
+- Cloud Technologies (AWS)
 
-<a href="https://github.com/kunalk077">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
+---
 
-&nbsp;&nbsp;&nbsp;
+# 🎯 Career Objective
 
-<a href="https://www.linkedin.com/in/kunal-tyagi-589745258/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
+To build scalable software solutions, continuously improve my technical skills, and contribute as a Software Developer while solving real-world engineering problems.
 
-&nbsp;&nbsp;&nbsp;
+---
+
+# 📫 Connect with Me
+
+<p align="left">
 
 <a href="mailto:kunaltyagi190@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-</p>
-
-<p align="center">
-
-📧 **kunaltyagi190@gmail.com**
+<a href="https://www.linkedin.com/in/kunal-tyagi-589745258">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 </p>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⚡ Code • Learn • Build • Improve ⚡
+## 💡 "Code • Learn • Build • Repeat"
 
-</h3>
+⭐ Thanks for visiting my profile!
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00F5FF,50:6A00FF,100:FF00C8"/>
-</p>
-````
+</div>
