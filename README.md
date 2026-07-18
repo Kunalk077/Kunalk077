@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Kunal%20Tyagi&fontSize=55&fontAlign=50&fontColor=ffffff&color=0:00F5FF,50:6A00FF,100:FF00C8&animation=fadeIn"/>
+  <img src="./banner.png.png" alt="Kunal Tyagi Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kunal Tyagi</h1>
